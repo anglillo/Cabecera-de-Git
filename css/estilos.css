@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: rgb(118, 50, 124);
-    color: rgb(20, 20, 20);
+    color: red
 }
 #cabecera p{
     color: red;
