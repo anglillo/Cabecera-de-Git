@@ -4,6 +4,13 @@ body{
     color: rgb(118, 50, 124);
     color: #333;
 }
+#cabecera #logo{
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+
+}
 #cabecera p{
     color: red;
     font-weight: bold;
